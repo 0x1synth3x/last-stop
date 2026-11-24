@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#171a1b"/><stop offset="1" stop-color="#080a0a"/></linearGradient>
+    <radialGradient id="lamp"><stop stop-color="#9d8051" stop-opacity=".2"/><stop offset="1" stop-color="#9d8051" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="360" fill="url(#sky)"/><path d="M0 270 800 220v140H0" fill="#0d100f"/>
+  <circle cx="600" cy="95" r="190" fill="url(#lamp)"/><path d="M600 20v192" stroke="#59594f" stroke-width="6"/><path d="M573 20h55" stroke="#8c7957" stroke-width="7"/>
+  <path d="M0 290h800" stroke="#343630" stroke-width="2"/><path d="M285 125h155v123H285z" fill="#171b19" stroke="#55574e" stroke-width="4"/><path d="M300 145h125v66H300z" fill="#202522"/><path d="M294 226h140M302 248v32m120-32v32" stroke="#55564d" stroke-width="5"/>
+  <path d="M0 315q55-5 105 0t105 0 105 0 105 0 105 0 105 0 105 0" fill="none" stroke="#444840" stroke-width="2" opacity=".35"/>
+  <path d="M634 209h18l8 34h-34z" fill="#080909"/><circle cx="643" cy="198" r="9" fill="#080909"/><path d="M638 245l-8 30m21-30 10 29" stroke="#080909" stroke-width="7"/>
+  <text x="314" y="180" fill="#99927d" font-family="monospace" font-size="12" letter-spacing="3">LAST BUS 3:00</text>
+</svg>
