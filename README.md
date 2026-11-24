@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Last Stop gameplay screenshot](https://raw.githubusercontent.com/0x1synth3x/last-stop/main/screenshot-2026-11-24_15-22-24-firefox.png)
+![Last Stop gameplay screenshot](https://lost.png)
 
 ## Play
 
