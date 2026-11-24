@@ -1,15 +1,19 @@
 * { box-sizing: border-box; }
-body { margin: 0; padding: 24px; min-height: 100vh; display: grid; place-items: center; background: #111310; color: #d8d2bd; font: 15px monospace; }
-main { width: min(100%, 620px); padding: 18px; background: #191b17; border: 1px solid #44463b; box-shadow: 0 20px 70px #0009; }
-.label, footer { color: #898879; font-size: 10px; letter-spacing: .12em; }
-img { display: block; width: 100%; height: 260px; object-fit: cover; border: 1px solid #45463d; filter: brightness(.78); }
-.time { margin-top: -30px; padding-left: 12px; position: relative; color: #eee1bb; font-size: 11px; }
-.label span { float: right; }
-h1 { margin-bottom: 8px; font: 30px Georgia, serif; font-weight: normal; }
-#story { line-height: 1.7; color: #c4c0b1; }
-.pockets { padding-top: 12px; border-top: 1px dashed #44463b; color: #8a8879; font-size: 11px; }
+body {
+  margin: 0; padding: 24px; min-height: 100vh; display: grid; place-items: center;
+  background: radial-gradient(ellipse at 50% 40%, #191a18, #080909 75%);
+  color: #c9c2b2; font: 15px/1.7 monospace;
+}
+main { width: min(100%, 620px); padding: 18px; background: #111311; border: 1px solid #34352f; box-shadow: 0 20px 90px #000; }
+.label, footer { color: #817b70; font-size: 10px; letter-spacing: .13em; }
+.label span { float: right; color: #b17061; }
+img { display: block; width: 100%; height: 260px; object-fit: cover; border: 1px solid #363832; filter: brightness(.57) saturate(.55); }
+.time { position: relative; margin: -29px 0 20px; padding-left: 12px; color: #c1ae83; font-size: 10px; text-shadow: 0 1px 5px #000; }
+h1 { margin: 8px 0; color: #e0d7c3; font: 30px Georgia, serif; font-weight: normal; }
+#story { min-height: 80px; color: #bcb7aa; }
+.pockets { padding-top: 12px; border-top: 1px dashed #383a34; color: #77776d; font-size: 10px; letter-spacing: .05em; }
 #choices { display: grid; gap: 8px; margin: 16px 0; }
-button { padding: 12px; border: 1px solid #4b4b3d; background: #22241e; color: inherit; text-align: left; font: inherit; cursor: pointer; }
-button:hover { border-color: #bb725b; background: #2a2a22; }
-footer { padding-top: 12px; border-top: 1px solid #383a32; }
-@media (max-width: 480px) { body { padding: 10px; } img { height: 210px; } }
+button { padding: 12px; border: 1px solid #383a34; background: #171916; color: #c9c2b2; text-align: left; font: inherit; cursor: pointer; }
+button:hover, button:focus-visible { outline: none; border-color: #986256; background: #201b18; }
+footer { padding-top: 12px; border-top: 1px solid #30322d; }
+@media (max-width: 480px) { body { padding: 10px; } main { padding: 13px; } img { height: 210px; } }
