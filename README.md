@@ -10,6 +10,13 @@
 
 - **Live game:** [Play Last Stop](https://0x1synth3x.github.io/last-stop/)
 
+## Tech Stack
+
+- **HTML5** – Game structure and content
+- **CSS3** – Styling and visual presentation
+- **JavaScript** – Story logic, player choices, and game interactions
+- **GitHub Pages** – Hosting and deployment
+
 ## How to Run
 
 No installation required. Simply visit the live game link and start playing.
