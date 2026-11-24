@@ -1,0 +1,27 @@
+# Last Stop
+
+*A small horror story about waiting for the last bus home. Make your choices carefully. Not everything that happens tonight is what it seems.*
+
+## Preview
+
+![Last Stop gameplay screenshot](https://raw.githubusercontent.com/0x1synth3x/last-stop/main/screenshot-2026-11-24_15-22-24-firefox.png)
+
+## Play
+
+- **Live game:** [Play Last Stop](https://0x1synth3x.github.io/last-stop/)
+
+## How to Run
+
+No installation required. Simply visit the live game link and start playing.
+
+## About the Story
+
+Last Stop is a fictional horror experience about a late-night journey home. What begins as an ordinary wait for the last bus slowly turns into something unsettling.
+
+## Made By
+
+**0x1synth3x**
+
+## Credits
+
+meee
