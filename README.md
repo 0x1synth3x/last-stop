@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Last Stop gameplay screenshot](https://lost.png)
+![Last Stop gameplay screenshot](lost.png)
 
 ## Play
 
