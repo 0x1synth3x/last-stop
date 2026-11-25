@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "_site"
 PLACEHOLDER = "__BUILD_VERSION__"
-ASSETS = ("styles.css", "script.js", "stop.svg")
+ASSETS = ("styles.css", "script.js", "stop.svg", "service-worker.js")
 
 
 class StructureValidator(HTMLParser):
